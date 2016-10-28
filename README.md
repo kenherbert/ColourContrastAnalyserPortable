@@ -1,4 +1,4 @@
 # ColourContrastAnalyserPortable
 
 ## Todo
-- Compare against released package to ensure all data is up to date
+- Compare against released package, definitely out of date info here
