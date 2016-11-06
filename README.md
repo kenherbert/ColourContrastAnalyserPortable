@@ -1,8 +1,5 @@
 # ColourContrastAnalyserPortable
 
-## Todo
-- Compare against released package, definitely out of date info here
-
 
 ## Build Process
 1. After installing [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCA-Win/releases/), copy the files into the `App/ColourContrastAnalyser/` folder
